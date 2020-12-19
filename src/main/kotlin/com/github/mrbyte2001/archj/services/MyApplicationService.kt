@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mrbyte2001.archj.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mrbyte2001.archj.MyBundle
 
 class MyApplicationService {
 
